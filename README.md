@@ -17,3 +17,13 @@ to remove the software:
 Known Bugs:
 the driver is expected to give kernel panics
 if the driver don't detect the interface check your extensions and update
+
+Currently Supported:
+- 2200bg / 2915abg
+
+Drivers in Development:
+- 2100
+- 3945abg
+
+Requirement:
+- Mac OS X 10.4.7
